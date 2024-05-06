@@ -1,0 +1,44 @@
+I have received the job description. Now, I will analyze the resume against the job description and provide a score for each part of the resume based on its relevance to the job.
+
+**Rishit Singh**
+================
+
+### Contact Information
+
+* Email: [rsrishitsingh@gmail.com](mailto:rsrishitsingh@gmail.com)
+* Phone: 6723381435
+* Location: Vancouver, BC
+* GitHub: https://github.com/rishit-singh
+
+**Relevance Score: 2/10** (Not directly related to the job requirements)
+
+### Education
+
+* **Shalom Hills International School**, Gurugram, India
+	+ High School Diploma in Science, April 2017 – August 2021
+	+ GPA: 3.2
+* **Langara College**, Vancouver, BC
+	+ Associate of Science in Computer Science, Jan 2023 – Jan 2025
+	+ GPA: 3.6
+
+**Relevance Score: 6/10** (Computer Science education is relevant, but no Bachelor's or Master's degree)
+
+### Experience
+
+* **Software Engineer**, Textualization Software, Vancouver, BC (July 2023 – Present)
+	+ Worked on optimizing CLucene, a C++ based search engine.
+	**Relevance Score: 4/10** (C++ experience is not directly related to C# and .NET framework)
+* **Software Engineer**, Enablesoft ERP, Gurugram, India (October 2021 – June 2023)
+	+ Made a web-based AR engine from scratch using WebXR for previewing products from an e-commerce website.
+	+ Made a C# based service to dynamically generate mappable textures of rugs from their images on the website.
+	+ Automated 3D model generation with the Blender API.
+	+ Wrote ERP services in C#.
+	**Relevance Score: 8/10** (C# experience and ERP services are relevant to the job)
+
+### Skills
+
+* **Programming**: C++, C#, Java, Kotlin, Python, Go, JavaScript
+	**Relevance Score: 8/10** (C# is a key skill for the job)
+* **Graphics APIs and Game Engines**: OpenGL, SDL, Vulkan, Unity, Godot, Three.js, WebGL
+	**Relevance Score: 2/10** (Not directly related to the job requirements)
+* **Dev Ops**: Bash/Linux, Docker, Docker-Compose{}

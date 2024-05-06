@@ -1,0 +1,38 @@
+{
+  "name": "Restuner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rishit-singh/Restuner",
+  "author": "rishit-singh <rsrishitsingh@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@cloudflare/ai": "^1.0.47",
+    "@types/cors": "^2.8.17",
+    "@types/eventsource": "^1.1.15",
+    "@types/multer": "^1.4.11",
+    "@types/node": "^20.11.19",
+    "@types/uuid": "^9.0.8",
+    "cors": "^2.8.5",
+    "eventsource": "^2.0.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "multer": "^1.4.5-lts.1",
+    "node-fetch": "^3.3.2",
+    "pdfjs-dist": "^4.0.379",
+    "replicate": "^0.28.1",
+    "source-map-loader": "^5.0.0",
+    "ts-loader": "^9.5.1",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.7.1",
+    "typescript": "^5.3.3",
+    "uuid": "^9.0.1"
+  },
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./bin/app.js",
+    "serve": "node ./bin/api/api.mjs",
+    "dev": "ts-node ./src/app.ts"
+  }
+}
